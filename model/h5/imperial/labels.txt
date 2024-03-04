@@ -1,0 +1,9 @@
+0 Anthracnose Rot
+1 Bacterial Speck (Spot)
+2 Bacterial Wilt
+3 Blossom End Rot
+4 Beet Curly Top Virus (BCTV)
+5 Early Blight
+6 Root Knot
+7 Septoria Leaf Spot
+8 Southern Blight
