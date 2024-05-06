@@ -1,3 +1,5 @@
+![](https://github.com/ebbimola/tomato-diseases-model/raw/main/header.svg)
+
 # PROJECT TITLE
 
 Tomato Disease Classification Model
